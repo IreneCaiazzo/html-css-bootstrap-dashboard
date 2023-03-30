@@ -13,6 +13,11 @@ main{
     top: 0;
 }
 
+/* .navbar img{
+    height: 72px;
+  
+} */
+
 .menu{
     width: 4rem;
     height: calc(100vh - 75px);
