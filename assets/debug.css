@@ -13,9 +13,10 @@
     top: 0;
 } */
 
-.navbar img{
+.mobile-logo{
     height: 72px;
     width: 72px;
+    flex: 0 0 auto;
 } 
 
 
